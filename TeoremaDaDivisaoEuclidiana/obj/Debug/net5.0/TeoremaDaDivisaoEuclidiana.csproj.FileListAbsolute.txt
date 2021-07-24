@@ -1,0 +1,16 @@
+D:\git\TeoremaDaDivisaoEuclidiana\bin\Debug\net5.0\TeoremaDaDivisaoEuclidiana.exe
+D:\git\TeoremaDaDivisaoEuclidiana\bin\Debug\net5.0\TeoremaDaDivisaoEuclidiana.deps.json
+D:\git\TeoremaDaDivisaoEuclidiana\bin\Debug\net5.0\TeoremaDaDivisaoEuclidiana.runtimeconfig.json
+D:\git\TeoremaDaDivisaoEuclidiana\bin\Debug\net5.0\TeoremaDaDivisaoEuclidiana.runtimeconfig.dev.json
+D:\git\TeoremaDaDivisaoEuclidiana\bin\Debug\net5.0\TeoremaDaDivisaoEuclidiana.dll
+D:\git\TeoremaDaDivisaoEuclidiana\bin\Debug\net5.0\ref\TeoremaDaDivisaoEuclidiana.dll
+D:\git\TeoremaDaDivisaoEuclidiana\bin\Debug\net5.0\TeoremaDaDivisaoEuclidiana.pdb
+D:\git\TeoremaDaDivisaoEuclidiana\obj\Debug\net5.0\TeoremaDaDivisaoEuclidiana.csprojAssemblyReference.cache
+D:\git\TeoremaDaDivisaoEuclidiana\obj\Debug\net5.0\TeoremaDaDivisaoEuclidiana.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\TeoremaDaDivisaoEuclidiana\obj\Debug\net5.0\TeoremaDaDivisaoEuclidiana.AssemblyInfoInputs.cache
+D:\git\TeoremaDaDivisaoEuclidiana\obj\Debug\net5.0\TeoremaDaDivisaoEuclidiana.AssemblyInfo.cs
+D:\git\TeoremaDaDivisaoEuclidiana\obj\Debug\net5.0\TeoremaDaDivisaoEuclidiana.csproj.CoreCompileInputs.cache
+D:\git\TeoremaDaDivisaoEuclidiana\obj\Debug\net5.0\TeoremaDaDivisaoEuclidiana.dll
+D:\git\TeoremaDaDivisaoEuclidiana\obj\Debug\net5.0\ref\TeoremaDaDivisaoEuclidiana.dll
+D:\git\TeoremaDaDivisaoEuclidiana\obj\Debug\net5.0\TeoremaDaDivisaoEuclidiana.pdb
+D:\git\TeoremaDaDivisaoEuclidiana\obj\Debug\net5.0\TeoremaDaDivisaoEuclidiana.genruntimeconfig.cache
